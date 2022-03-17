@@ -6,34 +6,14 @@
 ## Built With
 
 - Major languages: HTML, CSS
-- Frameworks
-- Technologies used:
-  - LINT
-  - HINT
-  - LINTHOUSE
+
 
 ## Getting Started
+Hello Microverse is the first project at Microverse that tests HTML & CSS 
 
 ### Prerequisites
- - Visual Studio 
+ - Visual Studio or any Text Editor of your choice 
  - Git
-
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-
-##  License
-
-This project is [MIT](./MIT.md) licensed.
-=======
-
-## Built With 
-  - HTML
-  - CSS 
-  - JavaScript
- 
  ## Author 
   Shyla Bernice 
  - GitHub: [@Shyla27](https://github.com/Shyla27/)
